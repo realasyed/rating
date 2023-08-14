@@ -4,5 +4,5 @@ I've found a tutorial series on YouTube so that should help.
 
 What are my dependent and independent variables?:
 Since my model is supposed to predict ratings, `IMBD_Ratings` is the dependent variable; it depends on other factors like
-`Genre` and `Director`. However, things like `Gross` might be dependent on `IMBD_Ratings` so I have a couple dependent
+`Genre` and `Director`. However, things like `Gross` might be dependent on `IMBD_Ratings` so I have a couple of dependent
 variables to deal with.
