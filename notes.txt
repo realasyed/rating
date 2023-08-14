@@ -1,0 +1,3 @@
+8/14/2023
+Turns out data preprocessing is a pretty big deal and takes a while to learn. Progress will likely be slow for now.
+I've found a tutorial series on YouTube so that should help.
